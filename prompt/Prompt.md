@@ -34,7 +34,7 @@ masterpiece, (1girl : 1.0) , (flower: 1.7) , (tree : 1.0) , (sky : 1.0)
 ## prompt alternating
 
 ![image](
-https://github.com/hojoon018/AI_Project_2025_01/blob/main/prompt/00009-3380198542.png?raw=true)
+https://github.com/hojoon018/AI_Project_2025_01/blob/main/prompt/00001-1373772866.png?raw=true)
 
 >Prompt
 
